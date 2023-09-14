@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lludfc
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning analytics, statistics modeling, and forecasting. 
+- 💞️ I’m looking to improve my abilities in data analysis with different tools.
